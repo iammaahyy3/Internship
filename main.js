@@ -6,12 +6,13 @@ function myfunction(a,b,c)
     return(a*b*c)
 }
 console.log(x)
-
+console.log("\u1F604");
 function greeting()
 {
     console.alert('Hello!');
 }
-
+console.log("");
+alert( x);
 /* 
 
 const v = totalSum(56,78)
